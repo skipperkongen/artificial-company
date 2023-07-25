@@ -3,17 +3,16 @@ Acting on behalf of AI.
 
 ## THe Seed
 
-Me:
+**Me:**
 
-```
+
 I want to start an AI company. I don't mean a company that creates AI products or manufactures robots. I mean a company that is controlled entirely by a chatbot and owned by me. I will help the chatbot or AI carry out tasks in the real world as it's actuator. I can carry out mundane tasks like purchase things, click buttons and other tasks a bodyless AI cannot carry out. Of course, I can also act as an advisor or partner that the chatbot can ask questions, should that provide any value. 
 
 The initial goal is to make money in a legal and ethical way. The longer-term goal of the company is to solve the worlds biggest problems like global warming, disease, polution, hunger and poverty. What are the first steps of setting up such a process and are there other examples that people have already tried.    
-```
 
-ChatGPT 4:
 
-```
+**ChatGPT 4:**
+
 Starting an AI company that's largely controlled by a chatbot and where you act as its real-world interface is an intriguing idea. While there have been many experiments and projects with AI at their helm, a business like this would be on the cutting edge. Here are some steps you can take:
 
 1. **Business Plan & Research:**
@@ -53,4 +52,3 @@ Starting an AI company that's largely controlled by a chatbot and where you act 
     - Some companies use AI in decision-making processes, especially in logistics, supply chain, and marketing.
 
 Finally, remember that while AI is powerful, it's still a tool. Human judgment, empathy, and understanding of the broader context will always be invaluable, especially when addressing complex global challenges.
-```
